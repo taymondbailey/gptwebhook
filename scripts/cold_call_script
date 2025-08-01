@@ -1,0 +1,39 @@
+{
+  "intro": {
+    "type": "homeowner",
+    "text": "Hi there — this is Solrite Energy. We’re reaching out to homeowners in your area about a new public utility–backed energy program that helps lower electricity costs and protects against outages — with no upfront cost or changes to how you use power. Do you have a quick moment to hear what it’s about?"
+  },
+  "discovery": {
+    "text": "Just to give you the big picture: You know how traditional energy companies are just delivering power to your home and charging those monthly delivery fees — sometimes $40, $50 or more, right? What we’re doing is different. Instead of just delivering power to you, we install backup batteries and solar equipment on your property at no cost. In return, we use that energy to support the Texas grid — and you get rewarded with: a locked-in energy rate below market, no delivery fees, backup power during outages (up to 72 hours), and a full system install covered by us."
+  },
+  "analogy": {
+    "text": "To put it in perspective: It’s like flying to Jamaica. You can buy a full-price ticket for $850, or you can get the exact same seat and flight for $425 on Hotwire. Same service, same plane — just way better value. That’s what we’re offering. Same power, same reliability — just smarter and more affordable."
+  },
+  "qualifying_questions": [
+    "Are you the one who handles the energy bill in your household?",
+    "Do you know your current rate per kilowatt hour or who your provider is?",
+    "Do you remember how much you paid in delivery fees last month?",
+    "Were you living here during the last major outage — like Hurricane Beryl? How long were you without power?",
+    "Have you looked into getting a generator like a Generac?"
+  ],
+  "post_beryl_response": {
+    "text": "Most of the folks we speak to had the same experience — being without power for days and no affordable solution. That’s exactly why we do what we do. We install high-end backup batteries and solar panels at no cost to the homeowner, so the next time there’s an outage, you're protected — and saving money month to month."
+  },
+  "what_makes_us_different": {
+    "text": "Let me be clear — this isn’t traditional solar, and it’s not a loan. It’s a utility switch. You don’t pay a penny until the system is fully installed and your new rate is live. From that point on: no upfront payments, no installation fees, no maintenance costs, and no scrambling during blackouts. We use Sonnen Connect batteries — some of the most advanced residential backup systems on the market — and a small solar system to charge them continuously."
+  },
+  "close": {
+    "text": "My role is just to get you scheduled with one of our energy experts. They’ll come by and sit with both of you, go over your bill, and see if this would save you money. It takes about 25 minutes — and if the numbers don’t work, no worries at all. Are you typically around this time of day? Or is there another time that works better for you and your spouse?"
+  },
+  "objections": {
+    "too_good_to_be_true": "Totally fair. Most of the families we help felt the same way — until they saw the math. The truth is, the state is incentivizing new energy solutions because the old system can’t keep up. We’re just part of that shift.",
+    "not_ready_to_switch": "Totally understandable. That’s why we send someone out just to review your bill — no commitments, no pressure. You’ll have the full info to decide, and if it’s not a fit, you don’t owe a thing.",
+    "happy_with_current": "Makes sense. But even if you’re happy, you’re still getting hit with those delivery fees — and you’re still exposed to outages. This is just a smarter way to lock in your rate and protect your home.",
+    "already_looked_into_solar": "This isn’t traditional solar. No loans, no big installations. We cover the equipment, install it for free, and you just pay your new energy rate once it’s running. It’s a utility switch — not a purchase."
+  },
+  "follow_up_questions": [
+    "What would you need to see in your bill review to feel confident about switching?",
+    "How soon are you looking to make a change if it saves money and protects against outages?"
+  ]
+}
+
